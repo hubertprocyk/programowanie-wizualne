@@ -4,7 +4,7 @@ namespace WinFormsApp1
 {
     public partial class Form1 : Form
     {
-
+        // Komentarz do commitu
         public Form1()
         {
             InitializeComponent();
